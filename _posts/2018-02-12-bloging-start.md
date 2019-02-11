@@ -17,7 +17,7 @@ print_hi('Tom')
 
 **마크다운 문법**을 이용하는 블로그를 찾다가 Github page 를 이용하기로 했다.
 
-(마크다운 에디터)[https://stackedit.io/app#] 는 여기로.
+[마크다운 에디터](https://stackedit.io/app#) 는 여기로.
 
-하루에 한번씩 TIL((좋은 예시)[https://github.com/jbranchaud/til])는 나태하지 않게 만드는 좋은 동기가 될 것이다.
+하루에 한번씩 TIL([좋은 예시](https://github.com/jbranchaud/til))는 나태하지 않게 만드는 좋은 동기가 될 것이다.
 
