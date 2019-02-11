@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ji soo Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Majored in Electronic information, interested in Data Science & ML."
   location         : "Seoul, Korea"
   email            : "kuotient46@gmail.com"
   links:
