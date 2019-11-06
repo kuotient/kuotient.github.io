@@ -106,11 +106,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ji soo Kim"
+  name             : "Jisoo Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Majored in Electronic information, interested in Data Science & ML."
   location         : "Seoul, Korea"
-  email            : "kuotient46@gmail.com"
+  email            : "kuotient.dev@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -126,7 +126,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/kuotient"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
